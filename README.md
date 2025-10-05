@@ -1,10 +1,8 @@
 # Hii, Coders! 👋
 
-I'm **Swap**, a Python enthusiast and data science explorer.
+I'm **Swap**, a Dev enthusiast and data science explorer.
 
 ## About Me
-
-🚀 Embarking on a Python-powered odyssey into the data realms.
 
 💻 Each line of code is a step toward mastering the art.
 
